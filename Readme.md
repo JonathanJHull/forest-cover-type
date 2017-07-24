@@ -5,3 +5,4 @@ A complete machine learning project pipeline is presented for the Kaggle Forest 
 ## Files
 
 JonathanHull_capstone.ipynb -- Jupyter notebook with source code
+best_gbrt_cfl.pkl -- optimized Gradient Boosting classifier
