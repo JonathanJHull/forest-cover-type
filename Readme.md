@@ -26,3 +26,6 @@ submission_majority_vote.csv -- kaggle submission with majority vote results
 
 submission_stacked.csv -- kaggle submission with one level of stacking with logistic regression
 
+## Installation
+
+Copy the Jupyter notebook JonathanHull_capstone.ipynb as well as the data files in \*.csv to your python environment and open the notebook.  You can begin exceuting the cells from the top.  Everything should work seemlessly as long as you have the typical pandas, numpy, etc. installed.
