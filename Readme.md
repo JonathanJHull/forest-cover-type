@@ -30,7 +30,20 @@ submission_stacked.csv -- kaggle submission with one level of stacking with logi
 
 Copy the Jupyter notebook JonathanHull_capstone.ipynb as well as the data files in \*.csv to your python environment and open the notebook.  You can begin exceuting the cells from the top.  Everything should work seemlessly as long as you have the typical pandas, numpy, etc. installed.
 
+This project requires Python 3.0+ and the following Python libraries:
+
+NumPy
+Pandas
+matplotlib
+scikit-learn
+
+You will also need to have software installed to run and execute an iPython Notebook
+
+We recommend you install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
 ## Code
+
+Python code for the project is in JonathanHull_capstone.ipynb.
 
 ## Run
 
