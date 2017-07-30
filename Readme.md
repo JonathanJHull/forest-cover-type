@@ -29,3 +29,11 @@ submission_stacked.csv -- kaggle submission with one level of stacking with logi
 ## Installation
 
 Copy the Jupyter notebook JonathanHull_capstone.ipynb as well as the data files in \*.csv to your python environment and open the notebook.  You can begin exceuting the cells from the top.  Everything should work seemlessly as long as you have the typical pandas, numpy, etc. installed.
+
+## Code
+
+## Run
+
+## Data
+### Features
+### Target Variable
