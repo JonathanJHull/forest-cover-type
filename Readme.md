@@ -176,12 +176,10 @@ Four different wilderness areas (binary columns):
 
 The class label is the Cover_Type.  It can be one of the following seven different values:
 
-class label	represents	class label	represents	class label	represents
+1=Spruce/Fir	4=Cottonwood/Willow	7=Krummholz
 
-1	Spruce/Fir	4	Cottonwood/Willow	7	Krummholz
+2=Lodgepole Pine	5=Aspen		
 
-2	Lodgepole Pine	5	Aspen		
-
-3	Ponderosa Pine	6	Douglas Fir		
+3=Ponderosa Pine	6=Douglas Fir		
 
 
