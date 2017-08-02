@@ -53,6 +53,14 @@ Python code for the project is in JonathanHull_capstone.ipynb.
 
 ## Run
 
+In a terminal or command window, navigate to the top-level project directory cover_type/ (that contains this README) and run one of the following commands:
+
+ipython notebook JonathanHull_capstone.ipynb
+or
+
+jupyter notebook JonathanHull_capstone.ipynb
+This will open the Jupyter Notebook software and project file in your browser.
+
 ## Data
 ### Features
 
